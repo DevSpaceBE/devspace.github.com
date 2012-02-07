@@ -1,0 +1,27 @@
+.hidden {
+  display: none;
+}
+
+html {
+  background-color: #ffcc00;
+}
+
+body {
+  text-align: center;
+  font-family: "Gill Sans", sans-serif;
+  color: #333;
+}
+
+header {
+  margin-top: 2em;
+}
+
+.vcard {
+  margin-top: 2em;
+  line-height: 1.5em;
+  font-size: larger;
+}
+
+.vcard .box {
+  font-size: smaller;
+}
